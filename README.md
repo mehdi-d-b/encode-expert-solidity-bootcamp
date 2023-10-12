@@ -1,1 +1,1 @@
-# encore-expert-solidity-bootcamp
+# encode-expert-solidity-bootcamp
